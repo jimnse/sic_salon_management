@@ -1,6 +1,6 @@
 {
     'name': 'SIC Salon Management',
-    'version': '17.0.1.0.0',
+    'version': '17.0.1',
     'category': 'Services',
     'summary': 'Salon Management Customizations with Colored Stages',
     'description': """
